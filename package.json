@@ -1,0 +1,17 @@
+{
+  "name": "yarn-example-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Donovan Graham",
+  "license": "MIT",
+  "scripts": {
+    "start": "forever app.js"
+  },
+  "dependencies": {
+    "express": "^4.14.0",
+    "forever": "^0.15.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
