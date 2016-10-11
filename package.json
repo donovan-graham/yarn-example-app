@@ -12,6 +12,7 @@
     "forever": "^0.15.2"
   },
   "devDependencies": {
+    "moment": "^2.15.1",
     "nodemon": "^1.11.0"
   }
 }
